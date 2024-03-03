@@ -1,0 +1,51 @@
+*{
+    text-align: center;
+}
+.con-1 {
+    color: white;
+    position: sticky;
+    top: 0;
+    background-color: rgb(9, 9, 9);
+    padding: 5px;
+  }
+  .text-size
+  {
+    font-size: 30px;
+  }
+  .par1{
+    
+    background-color: #404258;
+    padding: 70px;
+
+  }
+  .par2{
+    
+    background-color:#474E68;
+    padding: 70px;
+
+  }
+  .par3{
+    
+    background-color:#50577A;
+    padding: 70px;
+
+  }
+  .par4{
+    
+    background-color:#6B728E;
+    padding: 70px;
+
+  }
+  .par5{
+    
+    background-color:#787A91;
+    padding: 70px;
+
+  }
+  .par6{
+    
+    background-color:#9BA4B4;
+    padding: 70px;
+
+  }
+  
