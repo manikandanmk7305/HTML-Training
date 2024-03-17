@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(226, 238, 234);
+}
+table
+{
+    border-collapse:collapse ;
+    margin-left: 38%;
+    margin-bottom: 10%;
+    margin-top:10% ;
+}
+tbody
+{
+    background-color: white;
+}
+th,td
+{
+    padding: 20px 40px;
+}
+th{
+    background: green;
+}
+tr{
+    border-bottom: 2px solid rgb(226, 238, 234);
+}
+
